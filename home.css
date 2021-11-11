@@ -1,0 +1,17 @@
+#home{
+    display: grid;
+    gap: 10px;
+    grid-template-columns:40%;
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: antiquewhite;
+}
+#home1{
+    display: grid;
+    gap: 30px;
+    grid-template-columns:80%;
+    margin-left: 20px;
+    margin-top: 50px;
+    color:brown;
+    background-color: antiquewhite;
+}
